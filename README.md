@@ -1,5 +1,5 @@
 # Data Analytics com Power BI
-Repositório dedicado ao extenso bootcamp de 84h da DIO.
+Repositório dedicado ao estudo do bootcamp de 84h da DIO.
 
 ## O que estou estudando?
 
