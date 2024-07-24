@@ -5,4 +5,4 @@ Repositório dedicado ao estudo do bootcamp de 84h da DIO.
 
 - [x] Introdução a Análise de Dados e Power BI
   - [x] Fundamentos de Business Intelligence (BI).
-  - [x] 
+  - [x] Introdução a AnÁlise de Dados com SQL.
